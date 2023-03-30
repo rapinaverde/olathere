@@ -1,0 +1,10 @@
+.trevel_mainDiv{
+    border: 1px solid rgb(255, 0, 0);
+}
+
+.trevel_mainDiv img{
+    width: 100%;
+}
+.trevel_mainDiv h5 , .trevel_mainDiv p{
+    margin: 20px;
+}
